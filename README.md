@@ -18,7 +18,7 @@ Para trabalhar com CI/CD, neste curso foi feita uma pipeline com o Docker (e a c
 - GitHub Artifacts.
 
 ## Tecnologias utilizadas neste projeto:
-<img height="20" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"> <img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"> <img height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
 ## Como reproduzir este repositório?
 Você pode fazer um `fork` do repositório e rodar os workflows.
